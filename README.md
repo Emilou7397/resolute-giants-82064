@@ -17,3 +17,13 @@ The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domai
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+
+# Steps
+
+* Accounts: GitHub, Netlify.com, Stackbit
+* Use Stackbit to select a template
+* Select Gatsby as your framework
+* Use Netlify CMS
+* Deploy the project and accept the invite sent to your email (check junk folder)
+* Use the CMS to configure your site
